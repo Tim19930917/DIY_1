@@ -1,0 +1,100 @@
+﻿/*.btn {
+    border-radius: 4px;
+    background-color: #f68b58;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    float: right;
+}*/
+/* .btn span
+ {
+cursor: pointer;
+display: inline-block;
+position: relative;
+transition: 0.5s;
+}*/
+
+/*.btn span:after 
+{
+content: '\00bb';
+position: absolute;
+opacity: 0;
+top: 0;
+right: -20px;
+transition: 0.5s;
+}
+
+.btn:hover span 
+{
+padding-right: 20px;
+}
+
+ .btn:hover span:after
+{
+opacity: 1;
+right: 0;
+}
+*/
+
+/*.stylebtn {
+margin: auto;
+}*/
+/*
+.mylab 
+{
+    display: flex;
+    flex-direction:column;
+
+
+}
+
+from div
+{
+    margin-bottom:14px;
+}
+label 
+{
+    font-size:1.125rem;
+    margin-bottom:10px;
+    display:block;
+}
+input[type="text"],
+input[type="email"]
+textarea
+{
+    background: rgba(255,255,255,.5);
+    border: 1px #fff solid;
+    border-radius:5px;
+    padding:10px;
+    font-size: 1rem;
+
+
+}
+input[type="text"],
+input[type="email"] 
+{
+  width:100%;
+  max-width:240px;
+}
+
+textarea {
+    width: 100%;
+    max-width: 480px;
+    height: 6rem;
+}
+
+input[type="submit"] {
+border:none;
+cursor:pointer;
+
+}
+*/
+
+
+
